@@ -14,15 +14,14 @@ Notify users about new BuddyPress messages (widget & shortcode)
 
 This plugin is as simple as it is useful. Add the widget or use the shortcode `[you-have-a-new-message]` anywhere to display a notice if the currently logged in user has new messages. The notice links to the user's inbox as a convenient and omnipresent shortcut.
 
-Translations:
-
-German
+= Translations: =
+* German
 
 == Changelog ==
 
 = 1.1 =
 
-Hide notice when already viewing the inbox
+* Hide notice when already viewing the inbox
 
 = 1.0 =
 
